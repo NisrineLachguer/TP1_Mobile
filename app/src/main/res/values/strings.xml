@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="nom">Nom : </string>
+    <array name="villes">
+        <item>Marrakech</item>
+        <item>Rabat</item>
+        <item>Fes</item>
+        <item>Agadir</item>
+    </array>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
